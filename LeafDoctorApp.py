@@ -163,6 +163,6 @@ st.markdown("""
     }
     </style>
     <div class="footer">
-        <p>© 2024 Plant Disease Detector | Powered by TensorFlow & Google Gemini AI</p>
+        <p>© 2024 Leaf Doctor | Powered by TensorFlow & Google Gemini AI</p>
     </div>
     """, unsafe_allow_html=True)
