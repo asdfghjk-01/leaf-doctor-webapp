@@ -90,8 +90,6 @@ def fetch_prevention_and_treatments(disease_name):
     return response.text
 
 def predict_disease(image):
-    """Preprocess the image and predict the disease."""
-    """Preprocess the image, save it to a folder, predict the disease, and delete the image."""
     
     # Create a folder to save the image if it doesn't exist
     folder = "uploaded_images"
